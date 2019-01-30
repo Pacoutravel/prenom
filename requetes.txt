@@ -1,0 +1,10 @@
+- Liste des prenoms nés en 2014
+- liste des prenoms rares moins de 50 naissances par an
+- liste des prenoms commencant par D et finissant N
+- prenom avec le plus de naissances
+- prenom avec le moins de naissances
+- les 10 prenoms les plus utilisés avec au moins une naissance en lozere
+- le prenom le plus donné en 1900
+- date d'apparition de chaque prénom
+- prenom disparus (pas utilisé depuis 10 ans)
+- prenom utilisé dans tous les départements metropolitains
